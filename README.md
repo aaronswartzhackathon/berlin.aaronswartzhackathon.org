@@ -2,3 +2,5 @@ We will be kicking off the Berlin Hackathon at 10:00 on Friday 8th November @ th
 
 OSM Map:    http://bit.ly/thinkfarm-osm
 Google Map: http://bit.ly/thinkfarm-gmap
+
+published here: http://berlin.aaronswartzhackathon.org
